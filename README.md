@@ -12,5 +12,19 @@ This allows for unauthenticated version enumerations by file existence testing. 
 ## How to run
 
 ````bash
-python3 authentik-enum.py --verbose
+python authentik-enum.py -h
+                                              
+usage: authentik-enum.py [-h] [--base-url BASE_URL] [--repo REPO] [--timeout TIMEOUT] [--sleep SLEEP] [--all] [--include-404] [--verbose]
+
+Find (or enumerate) authentik AdminInterface-{version}.js and print HTTP status + MD5.
+
+options:
+  -h, --help           show this help message and exit
+  --base-url BASE_URL  Base URL, e.g. https://sso.example.com (default: None)
+  --repo REPO          GitHub repo to query for releases (default: goauthentik/authentik)
+  --timeout TIMEOUT    Network timeout (seconds) (default: 30.0)
+  --sleep SLEEP        Sleep between requests (seconds) (default: 0.0)
+  --all                Do not stop at first hit; enumerate all versions (default: False)
+  --include-404        Print 404 rows (otherwise they are skipped) (default: False)
+  --verbose            Print checked versions to STDERR (default: False)
 ````
